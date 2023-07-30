@@ -1,0 +1,152 @@
+{
+  "products": [
+    {
+      "Mobiles": [
+        {
+          "name": "Samsung s23 ultra",
+          "price": 124999
+        },
+        {
+          "name": "Apple Iphone 13",
+          "price": 60999
+        },
+        {
+          "name": "OnePlus 11R",
+          "price": 39588
+        },
+        {
+          "name": "OnePlus 10R",
+          "price": 33588
+        },
+        {
+          "name": "IQOO Neo 7",
+          "price": 30682
+        },
+        {
+          "name": "OPPO F23",
+          "price": 24990
+        }
+      ],
+      "Watches": [
+        {
+          "name": "Fossil",
+          "price": 6999
+        },
+        {
+          "name": "Casio",
+          "price": 5899
+        },
+        {
+          "name": "Apple",
+          "price": 14999
+        },
+        {
+          "name": "Samsung",
+          "price": 9699
+        },
+        {
+          "name": "Fitbit",
+          "price": 1299
+        }
+      ],
+      "Cameras": [
+        {
+          "name": "Canon",
+          "price": 59999
+        },
+        {
+          "name": "Nikon",
+          "price": 46999
+        },
+        {
+          "name": "Sony",
+          "price": 89789
+        },
+        {
+          "name": "Fuji film",
+          "price": 145999
+        },
+        {
+          "name": "Go pro",
+          "price": 36999
+        }
+      ],
+      "InnerWears": [
+        {
+          "name": "Bummer",
+          "price": 359
+        },
+        {
+          "name": "Van Haussen",
+          "price": 400
+        },
+        {
+          "name": "Jockey",
+          "price": 899
+        },
+        {
+          "name": "Gant",
+          "price": 599
+        },
+        {
+          "name": "Tommy Hilfiger",
+          "price": 1199
+        }
+      ],
+      "Shoes": [
+        {
+          "name": "Nike",
+          "price": 8999
+        },
+        {
+          "name": "Puma",
+          "price": 3999
+        },
+        {
+          "name": "Adidas",
+          "price": 12999
+        },
+        {
+          "name": "Sketchers",
+          "price": 5699
+        },
+        {
+          "name": "One 8",
+          "price": 4999
+        }
+      ]
+    }
+  ],
+  "unsuccessfulProducts": [
+    {
+      "name": "Google",
+      "price": 40000,
+      "category": "Mobiles",
+      "id": 1
+    },
+    {
+      "name": "Bata",
+      "price": 1000,
+      "category": "Shoes",
+      "id": 2
+    },
+    {
+      "name": "Sonata",
+      "price": 5000,
+      "category": "Watches",
+      "id": 3
+    },
+    {
+      "name": "Nokia",
+      "price": 1500,
+      "category": "Mobiles",
+      "id": 4
+    },
+    {
+      "name": "G shock",
+      "price": 5000,
+      "category": "Watches",
+      "id": 5
+    }
+  ]
+}
