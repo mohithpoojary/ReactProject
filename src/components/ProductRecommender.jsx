@@ -6,7 +6,7 @@ import axios from 'axios';
 
 const ProductRecommender = () => {
   let [productsData,setproductsData]=useState({})
-  const [selectedCategory, setSelectedCategory] = useState("select category");
+  const [selectedCategory, setSelectedCategory] = useState(Object.keys(productsData)[0]);
   const [budget, setBudget] = useState();
   const [searchQuery, setSearchQuery] = useState('');
   let [filteredProducts,setfilteredProducts]=useState([])
